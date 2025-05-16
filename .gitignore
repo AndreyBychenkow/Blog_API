@@ -111,4 +111,5 @@ dmypy.json
 docker-compose.yml.override # Если используешь файлы для переопределения docker-compose
 
 # Прочее
-.DS_Store 
+.DS_Store
+.env.tmp 
